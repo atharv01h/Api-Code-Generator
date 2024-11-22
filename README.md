@@ -90,4 +90,4 @@ Created by Atharv Hatwar
 
 ## 📧 Contact
 
-For any queries or suggestions, please reach out to [your contact information]
+For any queries or suggestions, please reach out to me
